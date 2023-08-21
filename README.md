@@ -22,7 +22,7 @@ DialogDyno is a web application that uses AI to power a chatbot. It's built with
 
 ## Installation
 
-1. Clone this repository to your local machine using `https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git`
+1. Clone this repository to your local machine using [https://github.com/Kaptan-Usama/chatbot](https://github.com/Kaptan-Usama/chatbot)
 2. Navigate to the project directory.
 3. Install the required packages using pip:
     ```
