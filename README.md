@@ -39,6 +39,10 @@ DialogDyno is a web application that uses AI to power a chatbot. It's built with
 2. Enter a prompt in the text input field.
 3. Click the "➤" button to generate a response from the chatbot.
 
+
 ## License
 
-This code is open source.
+Copyright (c) 2023 Muhammad Usama
+
+Permission is granted to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of this software. See the LICENSE file for more details.
+
